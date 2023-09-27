@@ -1,0 +1,72 @@
+.back1 {
+    width: 100%;
+    height: 700px;
+}
+.footer2 {
+    background-color: rgb(26, 37, 47);
+}
+.header1 {
+    background-color: rgb(26, 37, 47);
+}
+.footer1 {
+    background-color: rgb(44, 62, 80);
+}
+.header2 {
+    background-color: rgb(44, 62, 80);
+}
+.Portfolio {
+    margin-top: 80px;
+    padding-bottom: 50px;
+}
+.star {
+    padding-bottom: 80px;
+}
+.Portfolio2 {
+    margin-top: 80px;
+    padding-bottom: 80px;
+}
+.zayshop {
+    color: rgb(26, 188, 156);
+}
+.colorbackground {
+    color: rgb(26, 188, 156);
+}
+/* //////////////////////////////// */
+
+.list-box {
+    overflow: hidden;
+    letter-spacing: 0.5px;
+}
+
+.list-box .content h3 {
+    display: block;
+    line-height: 22px;
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+
+.list-box .content p {
+    margin-bottom: 0px;
+    opacity: 0.75;
+}
+
+.list-box .list-icon i {
+    display: block;
+    font-size: 24px;
+    margin-right: 15px;
+    color: #f28123;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    line-height: 60px;
+    border: 2px #f28123 dotted;
+    border-radius: 999px;
+}
+
+.imgabout {
+    width: 100%;
+}
+.thongtin {
+    padding-right: 100px;
+    padding-top: 10px;
+}
